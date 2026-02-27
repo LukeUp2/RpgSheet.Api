@@ -1,5 +1,5 @@
 # Estágio 1: Build
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
 
 # Copia os arquivos de projeto primeiro para aproveitar o cache das camadas (Restore)
