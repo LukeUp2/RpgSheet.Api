@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RpgSheet.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b71cbad65b2ae359adf2c9d75c7154b9bba6f7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RpgSheet.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RpgSheet.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
